@@ -1,0 +1,7 @@
+*.sdf
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.vxproj.user
+*.suo
